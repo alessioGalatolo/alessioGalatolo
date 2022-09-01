@@ -14,7 +14,7 @@
 - 🎓 MSc in Machine Learning
 - 📚 BSc in Computer Science
 - 🌱 Working on Social Robot Identity and their use for diabetes prevention
-- 💞️ Want to collaborate? Send me an [email](mailto:galatolo@kth.se)!
+- 💞️ Want to collaborate? Send me an [email](mailto:alessio.galatolo@it.uu.se)!
 - 🌐 [My website](https://www.alessiogalatolo.com/)
 <!-- - 📫 How to reach me... (don't reach me) -->
 - ⚡ Fun fact: I'm a huge fan of [chocolate strawberry mooncakes](https://leagueoflegends.fandom.com/wiki/Zoe/LoL/Audio#:~:text=%22CHOCOLATE%20STRAWBERRY%20CAKE!!%22)

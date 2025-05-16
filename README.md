@@ -11,14 +11,12 @@
 
 - 👋 Hi, I’m @alessioGalatolo
 - 💼 PhD student at Uppsala University
-- 🎓 MSc in Machine Learning
+- 🦉 MSc in Machine Learning
 - 📚 BSc in Computer Science
-- 🌱 Working on Social Robot Identity and their use for diabetes prevention
+- 🌱 Working on LLMs and Social Robots
 - 💞️ Want to collaborate? Send me an [email](mailto:alessio.galatolo@it.uu.se)!
 - 🌐 [My website](https://www.alessiogalatolo.com/)
+- 🎓 [Scholar Profile](https://scholar.google.com/citations?hl=en&user=Wyw_fPIAAAAJ)
 <!-- - 📫 How to reach me... (don't reach me) -->
 - ⚡ Fun fact: I'm a huge fan of [chocolate strawberry mooncakes](https://leagueoflegends.fandom.com/wiki/Zoe/LoL/Audio#:~:text=%22CHOCOLATE%20STRAWBERRY%20CAKE!!%22)
 ---
-<p align="center">
-  <img width="100%" src="https://c.tenor.com/SWtps19psREAAAAC/zoe-league.gif" />
-</p>

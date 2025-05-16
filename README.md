@@ -20,3 +20,8 @@
 <!-- - 📫 How to reach me... (don't reach me) -->
 - ⚡ Fun fact: I'm a huge fan of [chocolate strawberry mooncakes](https://leagueoflegends.fandom.com/wiki/Zoe/LoL/Audio#:~:text=%22CHOCOLATE%20STRAWBERRY%20CAKE!!%22)
 ---
+
+## 📚 Recent Publications
+<!-- START_SCHOLAR -->
+Loading publications...
+<!-- END_SCHOLAR -->

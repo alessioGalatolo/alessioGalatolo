@@ -23,5 +23,7 @@
 
 ## 📚 Recent Publications
 <!-- START_SCHOLAR -->
-Loading publications...
+- 📄 **Promoting the Responsible Development of Speech Datasets for Mental Health and Neurological Disorders Research** (Journal of Artificial Intelligence Research 82, 937-972, 2025)
+- 📄 **Visualising Policy-Reward Interplay to Inform Zeroth-Order Preference Optimisation of Large Language Models** (arXiv preprint arXiv:2503.03460, 2025)
+- 📄 **DIEKAE: Difference Injection for Efficient Knowledge Augmentation and Editing of Large Language Models** (arXiv preprint arXiv:2406.10660, 2024)
 <!-- END_SCHOLAR -->

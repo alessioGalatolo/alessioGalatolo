@@ -1,10 +1,16 @@
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 import re
 
 SCHOLAR_ID = "Wyw_fPIAAAAJ"
 README_PATH = "README.md"
 START_TAG = "<!-- START_SCHOLAR -->"
 END_TAG = "<!-- END_SCHOLAR -->"
+
+# Set up proxy
+pg = ProxyGenerator()
+if not pg.FreeProxies():
+    raise RuntimeError("Failed to set up a proxy. Google Scholar is not accessible.")
+scholarly.use_proxy(pg)
 
 
 def fetch_latest_pubs(scholar_id, n=3):

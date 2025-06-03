@@ -17,7 +17,7 @@ jobs:
         python-version: '3.10'
 
     - name: Install dependencies
-      run: pip install scholarly
+      run: pip install scholarly httpx==0.27.2
 
     - name: Run script
       run: python update_readme.py

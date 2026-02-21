@@ -7,7 +7,7 @@
 ---
 # I'm Alessio Galatolo, welcome to my profile!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessioGalatolo&layout=compact&langs_count=6" />
+<img align="right" src="./profile/top-langs.svg" />
 
 - 👋 Hi, I’m @alessioGalatolo
 - 💼 PhD student at Uppsala University
@@ -17,7 +17,6 @@
 - 💞️ Want to collaborate? Send me an [email](mailto:alessio.galatolo@it.uu.se)!
 - 🌐 [My website](https://www.alessiogalatolo.com/)
 - 🎓 [Scholar Profile](https://scholar.google.com/citations?hl=en&user=Wyw_fPIAAAAJ)
-<!-- - 📫 How to reach me... (don't reach me) -->
 - ⚡ Fun fact: I'm a huge fan of [chocolate strawberry mooncakes](https://leagueoflegends.fandom.com/wiki/Zoe/LoL/Audio#:~:text=%22CHOCOLATE%20STRAWBERRY%20CAKE!!%22)
 ---
 
